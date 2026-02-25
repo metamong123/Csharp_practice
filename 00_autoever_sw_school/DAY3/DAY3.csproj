@@ -1,0 +1,82 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net10.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="01_Collection.cs" />
+    <Compile Remove="01_Collection2.cs" />
+    <Compile Remove="02_override1.cs" />
+    <Compile Remove="02_override2.cs" />
+    <Compile Remove="02_override3.cs" />
+    <Compile Remove="03_example1.cs" />
+    <Compile Remove="03_example2.cs" />
+    <Compile Remove="03_example3.cs" />
+    <Compile Remove="03_example4.cs" />
+    <Compile Remove="03_example5.cs" />
+    <Compile Remove="03_example6.cs" />
+    <Compile Remove="03_example7.cs" />
+    <Compile Remove="03_example8.cs" />
+    <Compile Remove="03_example9.cs" />
+    <Compile Remove="04_ToString.cs" />
+    <Compile Remove="05_equals1.cs" />
+    <Compile Remove="05_equals2.cs" />
+    <Compile Remove="05_equals3.cs" />
+    <Compile Remove="05_equals4.cs" />
+    <Compile Remove="06_interface1.cs" />
+    <Compile Remove="06_interface2.cs" />
+    <Compile Remove="06_interface3.cs" />
+    <Compile Remove="06_interface4.cs" />
+    <Compile Remove="07_delegate1.cs" />
+    <Compile Remove="07_delegate2.cs" />
+    <Compile Remove="07_delegate3.cs" />
+    <Compile Remove="08_delegate_method1.cs" />
+    <Compile Remove="08_delegate_method2.cs" />
+    <Compile Remove="08_delegate_method3.cs" />
+    <Compile Remove="08_delegate_method4.cs" />
+    <Compile Remove="09_event1.cs" />
+    <Compile Remove="09_event2.cs" />
+    <Compile Remove="09_event3.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="01_Collection.cs" />
+    <None Include="01_Collection2.cs" />
+    <None Include="02_override1.cs" />
+    <None Include="02_override2.cs" />
+    <None Include="02_override3.cs" />
+    <None Include="03_example1.cs" />
+    <None Include="03_example2.cs" />
+    <None Include="03_example3.cs" />
+    <None Include="03_example4.cs" />
+    <None Include="03_example5.cs" />
+    <None Include="03_example6.cs" />
+    <None Include="03_example7.cs" />
+    <None Include="03_example8.cs" />
+    <None Include="03_example9.cs" />
+    <None Include="04_ToString.cs" />
+    <None Include="05_equals1.cs" />
+    <None Include="05_equals2.cs" />
+    <None Include="05_equals3.cs" />
+    <None Include="05_equals4.cs" />
+    <None Include="06_interface1.cs" />
+    <None Include="06_interface2.cs" />
+    <None Include="06_interface3.cs" />
+    <None Include="06_interface4.cs" />
+    <None Include="07_delegate1.cs" />
+    <None Include="07_delegate2.cs" />
+    <None Include="07_delegate3.cs" />
+    <None Include="08_delegate_method1.cs" />
+    <None Include="08_delegate_method2.cs" />
+    <None Include="08_delegate_method3.cs" />
+    <None Include="08_delegate_method4.cs" />
+    <None Include="09_event1.cs" />
+    <None Include="09_event2.cs" />
+    <None Include="09_event3.cs" />
+  </ItemGroup>
+
+</Project>

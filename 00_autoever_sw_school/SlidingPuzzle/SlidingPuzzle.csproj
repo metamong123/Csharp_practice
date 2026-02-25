@@ -1,0 +1,49 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net10.0-windows</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+	<UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="panel1.cs" />
+    <Compile Remove="panel2.cs" />
+    <Compile Remove="panel3.cs" />
+    <Compile Remove="panel4.cs" />
+    <Compile Remove="panel5.cs" />
+    <Compile Remove="puzzle01.cs" />
+    <Compile Remove="puzzle02.cs" />
+    <Compile Remove="puzzle03.cs" />
+    <Compile Remove="puzzle04.cs" />
+    <Compile Remove="puzzle05.cs" />
+    <Compile Remove="puzzle06.cs" />
+    <Compile Remove="puzzle07.cs" />
+    <Compile Remove="puzzle08.cs" />
+    <Compile Remove="puzzle09.cs" />
+    <Compile Remove="puzzle10.cs" />
+    <Compile Remove="puzzle11.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="panel1.cs" />
+    <None Include="panel2.cs" />
+    <None Include="panel3.cs" />
+    <None Include="panel4.cs" />
+    <None Include="panel5.cs" />
+    <None Include="puzzle01.cs" />
+    <None Include="puzzle02.cs" />
+    <None Include="puzzle03.cs" />
+    <None Include="puzzle04.cs" />
+    <None Include="puzzle05.cs" />
+    <None Include="puzzle06.cs" />
+    <None Include="puzzle07.cs" />
+    <None Include="puzzle08.cs" />
+    <None Include="puzzle09.cs" />
+    <None Include="puzzle10.cs" />
+    <None Include="puzzle11.cs" />
+  </ItemGroup>
+
+</Project>

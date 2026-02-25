@@ -1,0 +1,98 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net10.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="00_entry1.cs" />
+    <Compile Remove="00_entry2.cs" />
+    <Compile Remove="00_entry3.cs" />
+    <Compile Remove="01_using1.cs" />
+    <Compile Remove="01_using2.cs" />
+    <Compile Remove="01_using3.cs" />
+    <Compile Remove="02_read1.cs" />
+    <Compile Remove="02_read2.cs" />
+    <Compile Remove="03_variable0.cs" />
+    <Compile Remove="03_variable1.cs" />
+    <Compile Remove="03_variable2.cs" />
+    <Compile Remove="03_variable3.cs" />
+    <Compile Remove="03_variable4.cs" />
+    <Compile Remove="03_variable5.cs" />
+    <Compile Remove="03_variable6.cs" />
+    <Compile Remove="04_cts.cs" />
+    <Compile Remove="05_control_statement1_if.cs" />
+    <Compile Remove="05_control_statement2_switch.cs" />
+    <Compile Remove="05_control_statement3_switch_expression.cs" />
+    <Compile Remove="06_loop1_while.cs" />
+    <Compile Remove="06_loop2_do_while.cs" />
+    <Compile Remove="06_loop2_example.cs" />
+    <Compile Remove="06_loop3_example.cs" />
+    <Compile Remove="06_loop3_for.cs" />
+    <Compile Remove="06_loop4_foreach.cs" />
+    <Compile Remove="07_method_property1.cs" />
+    <Compile Remove="07_method_property2.cs" />
+    <Compile Remove="07_method_property3.cs" />
+    <Compile Remove="07_object1.cs" />
+    <Compile Remove="07_object2.cs" />
+    <Compile Remove="07_object3.cs" />
+    <Compile Remove="07_object4.cs" />
+    <Compile Remove="08_oop0.cs" />
+    <Compile Remove="08_oop1.cs" />
+    <Compile Remove="08_oop2.cs" />
+    <Compile Remove="08_value_vs_reference1.cs" />
+    <Compile Remove="08_value_vs_reference2.cs" />
+    <Compile Remove="08_value_vs_reference3.cs" />
+    <Compile Remove="08_value_vs_reference4.cs" />
+    <Compile Remove="09_string1.cs" />
+    <Compile Remove="09_string2.cs" />
+    <Compile Remove="09_string3.cs" />
+    <Compile Remove="09_string4.cs" />
+    <Compile Remove="hello.cs" />
+    <Compile Remove="Program.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="00_entry1.cs" />
+    <None Include="00_entry2.cs" />
+    <None Include="00_entry3.cs" />
+    <None Include="01_using1.cs" />
+    <None Include="01_using2.cs" />
+    <None Include="01_using3.cs" />
+    <None Include="02_read1.cs" />
+    <None Include="02_read2.cs" />
+    <None Include="03_variable0.cs" />
+    <None Include="03_variable1.cs" />
+    <None Include="03_variable2.cs" />
+    <None Include="03_variable3.cs" />
+    <None Include="03_variable4.cs" />
+    <None Include="03_variable5.cs" />
+    <None Include="03_variable6.cs" />
+    <None Include="04_cts.cs" />
+    <None Include="05_control_statement1_if.cs" />
+    <None Include="05_control_statement2_switch.cs" />
+    <None Include="05_control_statement3_switch_expression.cs" />
+    <None Include="06_loop1_while.cs" />
+    <None Include="06_loop2_do_while.cs" />
+    <None Include="06_loop2_example.cs" />
+    <None Include="06_loop3_example.cs" />
+    <None Include="06_loop3_for.cs" />
+    <None Include="06_loop4_foreach.cs" />
+    <None Include="07_method_property1.cs" />
+    <None Include="07_method_property2.cs" />
+    <None Include="07_method_property3.cs" />
+    <None Include="08_oop0.cs" />
+    <None Include="08_oop1.cs" />
+    <None Include="08_oop2.cs" />
+    <None Include="08_value_vs_reference1.cs" />
+    <None Include="08_value_vs_reference2.cs" />
+    <None Include="08_value_vs_reference3.cs" />
+    <None Include="08_value_vs_reference4.cs" />
+    <None Include="hello.cs" />
+    <None Include="Program.cs" />
+  </ItemGroup>
+
+</Project>

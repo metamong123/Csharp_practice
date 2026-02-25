@@ -1,0 +1,123 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net10.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="01_expression_bodied.cs" />
+    <Compile Remove="02_tuple1.cs" />
+    <Compile Remove="02_tuple2.cs" />
+    <Compile Remove="02_tuple3.cs" />
+    <Compile Remove="02_tuple4.cs" />
+    <Compile Remove="03_mutable.cs" />
+    <Compile Remove="03_mutable2.cs" />
+    <Compile Remove="03_mutable3.cs" />
+    <Compile Remove="03_mutable4.cs" />
+    <Compile Remove="04_class_basic1.cs" />
+    <Compile Remove="04_class_basic2.cs" />
+    <Compile Remove="04_class_basic3.cs" />
+    <Compile Remove="04_class_basic4.cs" />
+    <Compile Remove="05_private1.cs" />
+    <Compile Remove="05_private2.cs" />
+    <Compile Remove="06_property1.cs" />
+    <Compile Remove="06_property2.cs" />
+    <Compile Remove="06_property3.cs" />
+    <Compile Remove="06_property4.cs" />
+    <Compile Remove="06_property5.cs" />
+    <Compile Remove="06_property6.cs" />
+    <Compile Remove="06_property7.cs" />
+    <Compile Remove="07_static1.cs" />
+    <Compile Remove="07_static2.cs" />
+    <Compile Remove="07_static3.cs" />
+    <Compile Remove="07_static4.cs" />
+    <Compile Remove="07_static5.cs" />
+    <Compile Remove="07_static6.cs" />
+    <Compile Remove="07_static7.cs" />
+    <Compile Remove="07_static8.cs" />
+    <Compile Remove="08_value_vs_reference0.cs" />
+    <Compile Remove="08_value_vs_reference1.cs" />
+    <Compile Remove="08_value_vs_reference2.cs" />
+    <Compile Remove="08_value_vs_reference3.cs" />
+    <Compile Remove="08_value_vs_reference4.cs" />
+    <Compile Remove="09_inheritance1.cs" />
+    <Compile Remove="09_inheritance2.cs" />
+    <Compile Remove="10_upcasting1.cs" />
+    <Compile Remove="10_upcasting2.cs" />
+    <Compile Remove="11_override1.cs" />
+    <Compile Remove="11_override2.cs" />
+    <Compile Remove="11_override3.cs" />
+    <Compile Remove="12_example1.cs" />
+    <Compile Remove="12_example2.cs" />
+    <Compile Remove="12_example3.cs" />
+    <Compile Remove="12_example4.cs" />
+    <Compile Remove="12_example5.cs" />
+    <Compile Remove="12_example6.cs" />
+    <Compile Remove="wpf1.cs" />
+    <Compile Remove="wpf2.cs" />
+    <Compile Remove="wpf3.cs" />
+    <Compile Remove="정리.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="01_expression_bodied.cs" />
+    <None Include="02_tuple1.cs" />
+    <None Include="02_tuple2.cs" />
+    <None Include="02_tuple3.cs" />
+    <None Include="02_tuple4.cs" />
+    <None Include="03_mutable2.cs" />
+    <None Include="03_mutable.cs" />
+    <None Include="03_mutable3.cs" />
+    <None Include="03_mutable4.cs" />
+    <None Include="04_class_basic1.cs" />
+    <None Include="04_class_basic2.cs" />
+    <None Include="04_class_basic3.cs" />
+    <None Include="04_class_basic4.cs" />
+    <None Include="05_private1.cs" />
+    <None Include="05_private2.cs" />
+    <None Include="06_property1.cs" />
+    <None Include="06_property2.cs" />
+    <None Include="06_property3.cs" />
+    <None Include="06_property4.cs" />
+    <None Include="06_property5.cs" />
+    <None Include="06_property6.cs" />
+    <None Include="06_property7.cs" />
+    <None Include="07_static1.cs" />
+    <None Include="07_static2.cs" />
+    <None Include="07_static3.cs" />
+    <None Include="07_static4.cs" />
+    <None Include="07_static5.cs" />
+    <None Include="07_static6.cs" />
+    <None Include="07_static7.cs" />
+    <None Include="07_static8.cs" />
+    <None Include="08_value_vs_reference0.cs" />
+    <None Include="08_value_vs_reference1.cs" />
+    <None Include="08_value_vs_reference2.cs" />
+    <None Include="08_value_vs_reference3.cs" />
+    <None Include="09_inheritance1.cs" />
+    <None Include="09_inheritance2.cs" />
+    <None Include="10_upcasting1.cs" />
+    <None Include="10_upcasting2.cs" />
+    <None Include="11_override1.cs" />
+    <None Include="11_override2.cs" />
+    <None Include="11_override3.cs" />
+    <None Include="12_example1.cs" />
+    <None Include="12_example2.cs" />
+    <None Include="12_example3.cs" />
+    <None Include="12_example4.cs" />
+    <None Include="12_example5.cs" />
+    <None Include="12_example6.cs" />
+    <None Include="wpf1.cs" />
+    <None Include="wpf2.cs" />
+    <None Include="wpf3.cs" />
+    <None Include="정리.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="08_value_vs_reference4.cs" />
+  </ItemGroup>
+
+</Project>

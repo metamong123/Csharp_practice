@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\uD55C\uAD6D\uC804\uD30C\uC9C4\uD765\uD611\uD68C\\Desktop\\\uC2E4\uC2B5\\10_C#_\uD504\uB85C\uADF8\uB798\uBC0D\\DAY2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{33BAB1F4-C46C-4A25-A697-ABE80F8F29A8}|DAY2.csproj|c:\\users\\\uD55C\uAD6D\uC804\uD30C\uC9C4\uD765\uD611\uD68C\\desktop\\\uC2E4\uC2B5\\10_c#_\uD504\uB85C\uADF8\uB798\uBC0D\\day2\\wpf1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33BAB1F4-C46C-4A25-A697-ABE80F8F29A8}|DAY2.csproj|solutionrelative:wpf1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33BAB1F4-C46C-4A25-A697-ABE80F8F29A8}|DAY2.csproj|c:\\users\\\uD55C\uAD6D\uC804\uD30C\uC9C4\uD765\uD611\uD68C\\desktop\\\uC2E4\uC2B5\\10_c#_\uD504\uB85C\uADF8\uB798\uBC0D\\day2\\day2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{33BAB1F4-C46C-4A25-A697-ABE80F8F29A8}|DAY2.csproj|solutionrelative:day2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33BAB1F4-C46C-4A25-A697-ABE80F8F29A8}|DAY2.csproj|c:\\users\\\uD55C\uAD6D\uC804\uD30C\uC9C4\uD765\uD611\uD68C\\desktop\\\uC2E4\uC2B5\\10_c#_\uD504\uB85C\uADF8\uB798\uBC0D\\day2\\wpf2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33BAB1F4-C46C-4A25-A697-ABE80F8F29A8}|DAY2.csproj|solutionrelative:wpf2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DAY2",
+              "DocumentMoniker": "C:\\Users\\\uD55C\uAD6D\uC804\uD30C\uC9C4\uD765\uD611\uD68C\\Desktop\\\uC2E4\uC2B5\\10_C#_\uD504\uB85C\uADF8\uB798\uBC0D\\DAY2\\DAY2.csproj",
+              "RelativeDocumentMoniker": "DAY2.csproj",
+              "ToolTip": "C:\\Users\\\uD55C\uAD6D\uC804\uD30C\uC9C4\uD765\uD611\uD68C\\Desktop\\\uC2E4\uC2B5\\10_C#_\uD504\uB85C\uADF8\uB798\uBC0D\\DAY2\\DAY2.csproj",
+              "RelativeToolTip": "DAY2.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-23T11:37:10.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "wpf1.cs",
+              "DocumentMoniker": "C:\\Users\\\uD55C\uAD6D\uC804\uD30C\uC9C4\uD765\uD611\uD68C\\Desktop\\\uC2E4\uC2B5\\10_C#_\uD504\uB85C\uADF8\uB798\uBC0D\\DAY2\\wpf1.cs",
+              "RelativeDocumentMoniker": "wpf1.cs",
+              "ToolTip": "C:\\Users\\\uD55C\uAD6D\uC804\uD30C\uC9C4\uD765\uD611\uD68C\\Desktop\\\uC2E4\uC2B5\\10_C#_\uD504\uB85C\uADF8\uB798\uBC0D\\DAY2\\wpf1.cs",
+              "RelativeToolTip": "wpf1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T11:36:07.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "wpf2.cs",
+              "DocumentMoniker": "C:\\Users\\\uD55C\uAD6D\uC804\uD30C\uC9C4\uD765\uD611\uD68C\\Desktop\\\uC2E4\uC2B5\\10_C#_\uD504\uB85C\uADF8\uB798\uBC0D\\DAY2\\wpf2.cs",
+              "RelativeDocumentMoniker": "wpf2.cs",
+              "ToolTip": "C:\\Users\\\uD55C\uAD6D\uC804\uD30C\uC9C4\uD765\uD611\uD68C\\Desktop\\\uC2E4\uC2B5\\10_C#_\uD504\uB85C\uADF8\uB798\uBC0D\\DAY2\\wpf2.cs",
+              "RelativeToolTip": "wpf2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T11:35:56.582Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

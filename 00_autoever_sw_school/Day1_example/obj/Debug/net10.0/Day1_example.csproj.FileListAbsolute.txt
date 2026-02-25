@@ -1,0 +1,14 @@
+C:\Users\한국전파진흥협회\Desktop\실습\10_C#_프로그래밍\Day1_example\bin\Debug\net10.0\Day1_example.exe
+C:\Users\한국전파진흥협회\Desktop\실습\10_C#_프로그래밍\Day1_example\bin\Debug\net10.0\Day1_example.deps.json
+C:\Users\한국전파진흥협회\Desktop\실습\10_C#_프로그래밍\Day1_example\bin\Debug\net10.0\Day1_example.runtimeconfig.json
+C:\Users\한국전파진흥협회\Desktop\실습\10_C#_프로그래밍\Day1_example\bin\Debug\net10.0\Day1_example.dll
+C:\Users\한국전파진흥협회\Desktop\실습\10_C#_프로그래밍\Day1_example\bin\Debug\net10.0\Day1_example.pdb
+C:\Users\한국전파진흥협회\Desktop\실습\10_C#_프로그래밍\Day1_example\obj\Debug\net10.0\Day1_example.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\한국전파진흥협회\Desktop\실습\10_C#_프로그래밍\Day1_example\obj\Debug\net10.0\Day1_example.AssemblyInfoInputs.cache
+C:\Users\한국전파진흥협회\Desktop\실습\10_C#_프로그래밍\Day1_example\obj\Debug\net10.0\Day1_example.AssemblyInfo.cs
+C:\Users\한국전파진흥협회\Desktop\실습\10_C#_프로그래밍\Day1_example\obj\Debug\net10.0\Day1_example.csproj.CoreCompileInputs.cache
+C:\Users\한국전파진흥협회\Desktop\실습\10_C#_프로그래밍\Day1_example\obj\Debug\net10.0\Day1_example.dll
+C:\Users\한국전파진흥협회\Desktop\실습\10_C#_프로그래밍\Day1_example\obj\Debug\net10.0\refint\Day1_example.dll
+C:\Users\한국전파진흥협회\Desktop\실습\10_C#_프로그래밍\Day1_example\obj\Debug\net10.0\Day1_example.pdb
+C:\Users\한국전파진흥협회\Desktop\실습\10_C#_프로그래밍\Day1_example\obj\Debug\net10.0\Day1_example.genruntimeconfig.cache
+C:\Users\한국전파진흥협회\Desktop\실습\10_C#_프로그래밍\Day1_example\obj\Debug\net10.0\ref\Day1_example.dll

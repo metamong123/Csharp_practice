@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\uD55C\uAD6D\uC804\uD30C\uC9C4\uD765\uD611\uD68C\\Desktop\\\uC2E4\uC2B5\\10_C#_\uD504\uB85C\uADF8\uB798\uBC0D\\DAY2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{33BAB1F4-C46C-4A25-A697-ABE80F8F29A8}|DAY2.csproj|c:\\users\\\uD55C\uAD6D\uC804\uD30C\uC9C4\uD765\uD611\uD68C\\desktop\\\uC2E4\uC2B5\\10_c#_\uD504\uB85C\uADF8\uB798\uBC0D\\day2\\07_static7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33BAB1F4-C46C-4A25-A697-ABE80F8F29A8}|DAY2.csproj|solutionrelative:07_static7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33BAB1F4-C46C-4A25-A697-ABE80F8F29A8}|DAY2.csproj|c:\\users\\\uD55C\uAD6D\uC804\uD30C\uC9C4\uD765\uD611\uD68C\\desktop\\\uC2E4\uC2B5\\10_c#_\uD504\uB85C\uADF8\uB798\uBC0D\\day2\\07_static6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33BAB1F4-C46C-4A25-A697-ABE80F8F29A8}|DAY2.csproj|solutionrelative:07_static6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "07_static6.cs",
+              "DocumentMoniker": "C:\\Users\\\uD55C\uAD6D\uC804\uD30C\uC9C4\uD765\uD611\uD68C\\Desktop\\\uC2E4\uC2B5\\10_C#_\uD504\uB85C\uADF8\uB798\uBC0D\\DAY2\\07_static6.cs",
+              "RelativeDocumentMoniker": "07_static6.cs",
+              "ToolTip": "C:\\Users\\\uD55C\uAD6D\uC804\uD30C\uC9C4\uD765\uD611\uD68C\\Desktop\\\uC2E4\uC2B5\\10_C#_\uD504\uB85C\uADF8\uB798\uBC0D\\DAY2\\07_static6.cs",
+              "RelativeToolTip": "07_static6.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAAAGUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T10:20:13.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "07_static7.cs",
+              "DocumentMoniker": "C:\\Users\\\uD55C\uAD6D\uC804\uD30C\uC9C4\uD765\uD611\uD68C\\Desktop\\\uC2E4\uC2B5\\10_C#_\uD504\uB85C\uADF8\uB798\uBC0D\\DAY2\\07_static7.cs",
+              "RelativeDocumentMoniker": "07_static7.cs",
+              "ToolTip": "C:\\Users\\\uD55C\uAD6D\uC804\uD30C\uC9C4\uD765\uD611\uD68C\\Desktop\\\uC2E4\uC2B5\\10_C#_\uD504\uB85C\uADF8\uB798\uBC0D\\DAY2\\07_static7.cs",
+              "RelativeToolTip": "07_static7.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAwwHEAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T10:23:01.487Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

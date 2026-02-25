@@ -1,0 +1,14 @@
+C:\Users\한국전파진흥협회\Desktop\실습\10_C#_프로그래밍\DAY3_example\obj\Debug\net10.0-windows\DAY3_example.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\한국전파진흥협회\Desktop\실습\10_C#_프로그래밍\DAY3_example\obj\Debug\net10.0-windows\DAY3_example.AssemblyInfoInputs.cache
+C:\Users\한국전파진흥협회\Desktop\실습\10_C#_프로그래밍\DAY3_example\obj\Debug\net10.0-windows\DAY3_example.AssemblyInfo.cs
+C:\Users\한국전파진흥협회\Desktop\실습\10_C#_프로그래밍\DAY3_example\obj\Debug\net10.0-windows\DAY3_example.csproj.CoreCompileInputs.cache
+C:\Users\한국전파진흥협회\Desktop\실습\10_C#_프로그래밍\DAY3_example\bin\Debug\net10.0-windows\DAY3_example.exe
+C:\Users\한국전파진흥협회\Desktop\실습\10_C#_프로그래밍\DAY3_example\bin\Debug\net10.0-windows\DAY3_example.deps.json
+C:\Users\한국전파진흥협회\Desktop\실습\10_C#_프로그래밍\DAY3_example\bin\Debug\net10.0-windows\DAY3_example.runtimeconfig.json
+C:\Users\한국전파진흥협회\Desktop\실습\10_C#_프로그래밍\DAY3_example\bin\Debug\net10.0-windows\DAY3_example.dll
+C:\Users\한국전파진흥협회\Desktop\실습\10_C#_프로그래밍\DAY3_example\bin\Debug\net10.0-windows\DAY3_example.pdb
+C:\Users\한국전파진흥협회\Desktop\실습\10_C#_프로그래밍\DAY3_example\obj\Debug\net10.0-windows\DAY3_example.dll
+C:\Users\한국전파진흥협회\Desktop\실습\10_C#_프로그래밍\DAY3_example\obj\Debug\net10.0-windows\refint\DAY3_example.dll
+C:\Users\한국전파진흥협회\Desktop\실습\10_C#_프로그래밍\DAY3_example\obj\Debug\net10.0-windows\DAY3_example.pdb
+C:\Users\한국전파진흥협회\Desktop\실습\10_C#_프로그래밍\DAY3_example\obj\Debug\net10.0-windows\DAY3_example.genruntimeconfig.cache
+C:\Users\한국전파진흥협회\Desktop\실습\10_C#_프로그래밍\DAY3_example\obj\Debug\net10.0-windows\ref\DAY3_example.dll
