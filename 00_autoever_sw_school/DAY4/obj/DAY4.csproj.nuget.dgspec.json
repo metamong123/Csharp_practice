@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\한국전파진흥협회\\Desktop\\실습\\10_C#_프로그래밍\\DAY4\\DAY4.csproj": {}
+    "C:\\Users\\한국전파진흥협회\\Desktop\\실습\\10_C#_프로그래밍\\00_autoever_sw_school\\DAY4\\DAY4.csproj": {}
   },
   "projects": {
-    "C:\\Users\\한국전파진흥협회\\Desktop\\실습\\10_C#_프로그래밍\\DAY4\\DAY4.csproj": {
+    "C:\\Users\\한국전파진흥협회\\Desktop\\실습\\10_C#_프로그래밍\\00_autoever_sw_school\\DAY4\\DAY4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\한국전파진흥협회\\Desktop\\실습\\10_C#_프로그래밍\\DAY4\\DAY4.csproj",
+        "projectUniqueName": "C:\\Users\\한국전파진흥협회\\Desktop\\실습\\10_C#_프로그래밍\\00_autoever_sw_school\\DAY4\\DAY4.csproj",
         "projectName": "DAY4",
-        "projectPath": "C:\\Users\\한국전파진흥협회\\Desktop\\실습\\10_C#_프로그래밍\\DAY4\\DAY4.csproj",
+        "projectPath": "C:\\Users\\한국전파진흥협회\\Desktop\\실습\\10_C#_프로그래밍\\00_autoever_sw_school\\DAY4\\DAY4.csproj",
         "packagesPath": "C:\\Users\\한국전파진흥협회\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\한국전파진흥협회\\Desktop\\실습\\10_C#_프로그래밍\\DAY4\\obj\\",
+        "outputPath": "C:\\Users\\한국전파진흥협회\\Desktop\\실습\\10_C#_프로그래밍\\00_autoever_sw_school\\DAY4\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\한국전파진흥협회\\AppData\\Roaming\\NuGet\\NuGet.Config",

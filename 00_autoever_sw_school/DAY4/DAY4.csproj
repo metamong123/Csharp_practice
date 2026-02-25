@@ -31,15 +31,19 @@
     <Compile Remove="07_delegate1.cs" />
     <Compile Remove="07_delegate2.cs" />
     <Compile Remove="07_delegate3.cs" />
+    <Compile Remove="07_delegate4.cs" />
+    <Compile Remove="07_delegate5.cs" />
     <Compile Remove="08_delegate_method1.cs" />
     <Compile Remove="08_delegate_method2.cs" />
+    <Compile Remove="08_delegate_method2_1.cs" />
+    <Compile Remove="08_delegate_method2_2.cs" />
     <Compile Remove="08_delegate_method3.cs" />
     <Compile Remove="08_delegate_method4.cs" />
     <Compile Remove="09_event1.cs" />
     <Compile Remove="09_event2.cs" />
-    <Compile Remove="09_event3.cs" />
     <Compile Remove="this1.cs" />
     <Compile Remove="this2.cs" />
+    <Compile Remove="this3.cs" />
   </ItemGroup>
 
   <ItemGroup>
@@ -65,19 +69,23 @@
     <None Include="07_delegate1.cs" />
     <None Include="07_delegate2.cs" />
     <None Include="07_delegate3.cs" />
+    <None Include="07_delegate4.cs" />
+    <None Include="07_delegate5.cs" />
     <None Include="08_delegate_method1.cs" />
     <None Include="08_delegate_method2.cs" />
+    <None Include="08_delegate_method2_1.cs" />
+    <None Include="08_delegate_method2_2.cs" />
     <None Include="08_delegate_method3.cs" />
     <None Include="08_delegate_method4.cs" />
     <None Include="09_event1.cs" />
     <None Include="09_event2.cs" />
-    <None Include="09_event3.cs" />
   </ItemGroup>
 
   <ItemGroup>
     <None Include="06_interface3.cs" />
     <None Include="this1.cs" />
     <None Include="this2.cs" />
+    <None Include="this3.cs" />
   </ItemGroup>
 
 </Project>

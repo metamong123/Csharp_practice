@@ -8,4 +8,12 @@
 	<UseWPF>true</UseWPF>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Compile Remove="wpf1.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="wpf1.cs" />
+  </ItemGroup>
+
 </Project>

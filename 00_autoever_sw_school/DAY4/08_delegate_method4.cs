@@ -9,10 +9,11 @@ class Program
 	public static void SMethod(int arg) => WriteLine("Program.SMethod");
 
 	public static void Main()
-	{	
-		MyFunc f = Test.SMethod; 
-
-		f(10); 
+	{
+        // 여러개 함수 등록가능
+        MyFunc f = Test.SMethod;
+        f += Program.SMethod;
+        f(10); 
 	}
 }
 
