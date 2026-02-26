@@ -1,0 +1,56 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net10.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="01_parameter_modifier2.cs" />
+    <Compile Remove="01_parameter_modifier3.cs" />
+    <Compile Remove="01_parameter_modifier4.cs" />
+    <Compile Remove="01_parameter_modifier5.cs" />
+    <Compile Remove="02_method1_overloading.cs" />
+    <Compile Remove="02_method2_named_argument1.cs" />
+    <Compile Remove="02_method3_optional_parameter1.cs" />
+    <Compile Remove="03_generic1.cs" />
+    <Compile Remove="03_generic2.cs" />
+    <Compile Remove="04_generic_constraint1.cs" />
+    <Compile Remove="04_generic_constraint2.cs" />
+    <Compile Remove="04_generic_constraint3.cs" />
+    <Compile Remove="05_exception1.cs" />
+    <Compile Remove="05_exception2.cs" />
+    <Compile Remove="05_exception3.cs" />
+    <Compile Remove="06_partial1.cs" />
+    <Compile Remove="06_partial2.cs" />
+    <Compile Remove="07_namespace1.cs" />
+    <Compile Remove="07_namespace2.cs" />
+    <Compile Remove="wpfsample.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="01_parameter_modifier2.cs" />
+    <None Include="01_parameter_modifier3.cs" />
+    <None Include="01_parameter_modifier4.cs" />
+    <None Include="01_parameter_modifier5.cs" />
+    <None Include="02_method1_overloading.cs" />
+    <None Include="02_method2_named_argument1.cs" />
+    <None Include="02_method3_optional_parameter1.cs" />
+    <None Include="03_generic1.cs" />
+    <None Include="03_generic2.cs" />
+    <None Include="04_generic_constraint1.cs" />
+    <None Include="04_generic_constraint2.cs" />
+    <None Include="04_generic_constraint3.cs" />
+    <None Include="05_exception1.cs" />
+    <None Include="05_exception2.cs" />
+    <None Include="05_exception3.cs" />
+    <None Include="06_partial1.cs" />
+    <None Include="06_partial2.cs" />
+    <None Include="07_namespace1.cs" />
+    <None Include="07_namespace2.cs" />
+    <None Include="wpfsample.cs" />
+  </ItemGroup>
+
+</Project>
