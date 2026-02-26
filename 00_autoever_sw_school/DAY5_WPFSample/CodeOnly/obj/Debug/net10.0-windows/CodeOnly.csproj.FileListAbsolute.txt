@@ -1,0 +1,15 @@
+C:\Users\한국전파진흥협회\Desktop\실습\10_C#_프로그래밍\CodeOnly\bin\Debug\net10.0-windows\CodeOnly.exe
+C:\Users\한국전파진흥협회\Desktop\실습\10_C#_프로그래밍\CodeOnly\bin\Debug\net10.0-windows\CodeOnly.deps.json
+C:\Users\한국전파진흥협회\Desktop\실습\10_C#_프로그래밍\CodeOnly\bin\Debug\net10.0-windows\CodeOnly.runtimeconfig.json
+C:\Users\한국전파진흥협회\Desktop\실습\10_C#_프로그래밍\CodeOnly\bin\Debug\net10.0-windows\CodeOnly.dll
+C:\Users\한국전파진흥협회\Desktop\실습\10_C#_프로그래밍\CodeOnly\bin\Debug\net10.0-windows\CodeOnly.pdb
+C:\Users\한국전파진흥협회\Desktop\실습\10_C#_프로그래밍\CodeOnly\obj\Debug\net10.0-windows\CodeOnly.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\한국전파진흥협회\Desktop\실습\10_C#_프로그래밍\CodeOnly\obj\Debug\net10.0-windows\CodeOnly.AssemblyInfoInputs.cache
+C:\Users\한국전파진흥협회\Desktop\실습\10_C#_프로그래밍\CodeOnly\obj\Debug\net10.0-windows\CodeOnly.AssemblyInfo.cs
+C:\Users\한국전파진흥협회\Desktop\실습\10_C#_프로그래밍\CodeOnly\obj\Debug\net10.0-windows\CodeOnly.csproj.CoreCompileInputs.cache
+C:\Users\한국전파진흥협회\Desktop\실습\10_C#_프로그래밍\CodeOnly\obj\Debug\net10.0-windows\CodeOnly.sourcelink.json
+C:\Users\한국전파진흥협회\Desktop\실습\10_C#_프로그래밍\CodeOnly\obj\Debug\net10.0-windows\CodeOnly.dll
+C:\Users\한국전파진흥협회\Desktop\실습\10_C#_프로그래밍\CodeOnly\obj\Debug\net10.0-windows\refint\CodeOnly.dll
+C:\Users\한국전파진흥협회\Desktop\실습\10_C#_프로그래밍\CodeOnly\obj\Debug\net10.0-windows\CodeOnly.pdb
+C:\Users\한국전파진흥협회\Desktop\실습\10_C#_프로그래밍\CodeOnly\obj\Debug\net10.0-windows\CodeOnly.genruntimeconfig.cache
+C:\Users\한국전파진흥협회\Desktop\실습\10_C#_프로그래밍\CodeOnly\obj\Debug\net10.0-windows\ref\CodeOnly.dll

@@ -1,0 +1,8 @@
+<Solution>
+  <Project Path="../CodeOnly/CodeOnly.csproj" Id="1b5493f1-869e-4556-8ccc-4f96b0fcdb08" />
+  <Project Path="../Sample1/Sample1.csproj" Id="b2308b91-04f1-4b26-835c-f16360db0a7f" />
+  <Project Path="../Sample2/Sample2.csproj" Id="9982ad1f-3d5c-4c17-b5d6-d7f0edbf5d53" />
+  <Project Path="../Sample3/Sample3.csproj" Id="860ae48b-9a7e-4db1-98ad-22d95670c1e8" />
+  <Project Path="../Sample4/Sample4.csproj" Id="ad187a4c-d57f-41ef-bf28-54d9efdc0ffc" />
+  <Project Path="WPFSample.csproj" />
+</Solution>

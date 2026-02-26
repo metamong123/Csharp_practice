@@ -1,19 +1,23 @@
 using static System.Console;
 
-class Example
-{
-    public void M1(int a, int b, int c)
-    {
+class Example {
+    // 함수(메소드) 인자 뒤에 디폴트값 사용 가능
+    // C++: Default 파라미터
+    // C# : Optional 파라미터
+    // Python: 지원
+    // Java, C, Rust: 모두 지원 안함
+    public void M1(int a, int b = 0, int c = 0) {
+
     }
 }
 
-class Program
-{
-    public static void Main()
-    {
+class Program {
+    public static void Main() {
         Example e = new Example();
 
         e.M1(1, 2, 3);
         e.M1(1, 2);
+        e.M1(1);
+        //e.M1(); // error
     }
 }
